@@ -9,9 +9,10 @@ To help uncover ways they sell their product, and if this e-commerce site uses i
 I collected the data using web scraping from Google, Wikipedia, Statista, and customer reviews from TrustPilot.
 ## Tools
 Excel for Analysis and creating charts for visualization and Google Docs for swot analysis and documentation
-##Visualization
+## Visualization
 ![Screenshot 2025-03-31 161115](https://github.com/user-attachments/assets/69c8944f-f7af-461c-b89c-5f3d356e006d)
 ![Screenshot 2025-03-31 161032](https://github.com/user-attachments/assets/74d3c52c-3a41-4f4c-8210-3f75d5d459ea)
+![Screenshot 2025-03-31 192959](https://github.com/user-attachments/assets/dcd7ede1-d6ec-4f90-8c87-21c7d8eb07d1)
 
 ## Recommedation
 Keeps users engaged through personalized shopping feeds based on preferences and behavior.
